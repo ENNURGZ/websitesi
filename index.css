@@ -1,0 +1,15 @@
+body {
+    background-color: rgba(190, 184, 193, 0.642);  
+  }
+  h1{text-align: center; margin-top: 3%;}
+  p{text-align: center; margin-top: 3%;}
+  #yazi{width: 60%; margin: 3% 20% 3% 20%;}
+
+  .küçükresimler{
+    max-height:200px;
+    margin:3% 20% 3% 20%;
+  }
+  footer{
+    text-align: end;
+    padding-right:20px; 
+  }
