@@ -1,0 +1,33 @@
+body{
+    background-image: url(RESİMLER/girişarkaplan.jpg);   
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    }
+    .box{
+        width: 80%;
+        height:75%;
+        border-style: solid;
+        margin: auto;
+        padding: 7%;
+        border-color: rgba(255, 255, 255, 0.652);
+        margin-top: 10%;
+        background-color: rgba(88, 88, 88, 0.759);
+    }
+    
+    .giris-form h2 {
+        margin: 0 0 50px;
+        font-style:inherit;
+        font-family:Arial, Helvetica, sans-serif
+        
+    }
+    .form-control, .btn {
+        min-height: 40px;
+        border-radius: 5px;
+    }
+    .btn {        
+        font-size: 15px;
+        font-weight: bold;
+
+    }
