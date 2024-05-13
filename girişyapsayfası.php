@@ -4,6 +4,7 @@
     </head>
 
 <body style="background-color:gray;">
+
  <div >
    <p>
        <?php
