@@ -1,0 +1,48 @@
+body {
+  background-color: rgba(169, 169, 169, 0.338);  
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.sol{
+  background-color: rgb(42, 48, 59);
+  color: rgba(245, 245, 245, 0.613);
+}
+a:link ,a:visited{
+  color: rgba(245, 245, 245, 0.613);
+  text-decoration: none;
+}
+a:hover{
+  color: rgba(245, 245, 245, 0.976);
+  text-decoration: none;
+}
+footer{
+  text-align: end;
+  padding-right:20px; 
+}
+h1{
+  color: black;
+  font-family:sans-serif
+  
+}
+hr{
+  height: 1px;
+   background-color: #ff7300a3;
+    border: none;
+}
+h3{
+  color:  #c25a05e0;
+  font-family:sans-serif;
+}
+ul{
+  list-style-type: none;
+  margin-left: 3px;
+  padding-left: 3px;
+}
+.resimhizala{
+  margin-top: 15px;
+}
+p{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+  
